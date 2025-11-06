@@ -4,3 +4,11 @@
 void foo(){
     printf("FOOOOOOOOOOOOOO\n");
 }
+
+void foofoo(){
+    printf("FOOFOOFOOFOOFOO\n");
+}
+
+void foofoofoo(){
+    printf("hi ffooffoo\n");
+}
