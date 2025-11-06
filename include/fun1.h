@@ -4,4 +4,8 @@
 #include <stdio.h>
 
 void foo(void);
+void foofoo(void);
+void foofoofoo(void);
+
+
 #endif
